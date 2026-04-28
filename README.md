@@ -1,6 +1,6 @@
 # Precision Detector for Bee Swarm Simulator
 
-An AHK macro that shows the time left in your precision buff and alerts when to refresh your precision in Bee Swarm Simulator.
+A draggable AHK macro window that displays the time remaining on your precision buff and alerts you when it's time to refresh it in Bee Swarm Simulator.
 
 ![AHK](https://img.shields.io/badge/.AHK-AutoHotkey-green)
 
