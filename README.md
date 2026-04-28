@@ -1,4 +1,4 @@
-# Precision Detector for Bee Swarm Simulator
+# <img src="Icon.png" width="45" alt="App Icon" /> Precision Detector for Bee Swarm Simulator
 
 A draggable AHK macro window that displays the time remaining on your precision buff and alerts you when it's time to refresh it in Bee Swarm Simulator.
 
